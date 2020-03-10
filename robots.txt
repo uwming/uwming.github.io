@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /about/
+Disallow: /about
+Disallow: /_drafts/
+Disallow: /_drafts
